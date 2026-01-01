@@ -1,0 +1,44 @@
+<RCC>
+  <qresource prefix="img">
+    <file>resources/imgs/快捷键.png</file>
+    <file>resources/imgs/加线条_未选中.png</file>
+    <file>resources/imgs/加线条.png</file>
+    <file>resources/imgs/线条断开.png</file>
+    <file>resources/imgs/线条连接.png</file>
+    <file>resources/imgs/取消.png</file>
+    <file>resources/imgs/mti-确定.png</file>
+    <file>resources/imgs/恢复.png</file>
+    <file>resources/imgs/测试测试_未选中.png</file>
+    <file>resources/imgs/测试测试_选中.png</file>
+    <file>resources/imgs/旋转_未选中.png</file>
+    <file>resources/imgs/关键点_未选中.png</file>
+    <file>resources/imgs/多边形_未选中.png</file>
+    <file>resources/imgs/矩形_未选中.png</file>
+    <file>resources/imgs/关于.png</file>
+    <file>resources/imgs/使用方法.png</file>
+    <file>resources/imgs/显示.png</file>
+    <file>resources/imgs/隐藏.png</file>
+    <file>resources/imgs/适应窗口.png</file>
+    <file>resources/imgs/还原.png</file>
+    <file>resources/imgs/放大.png</file>
+    <file>resources/imgs/缩小.png</file>
+    <file>resources/imgs/删除_操作.png</file>
+    <file>resources/imgs/撤销.png</file>
+    <file>resources/imgs/复制.png</file>
+    <file>resources/imgs/粘贴.png</file>
+    <file>resources/imgs/旋转.png</file>
+    <file>resources/imgs/关键点.png</file>
+    <file>resources/imgs/多边形.png</file>
+    <file>resources/imgs/矩形.png</file>
+    <file>resources/imgs/退出.png</file>
+    <file>resources/imgs/导出.png</file>
+    <file>resources/imgs/删除.png</file>
+    <file>resources/imgs/视频.png</file>
+    <file>resources/imgs/上一张.png</file>
+    <file>resources/imgs/下一张.png</file>
+    <file>resources/imgs/文件夹_未选中.png</file>
+    <file>resources/imgs/文件夹_选中.png</file>
+    <file>resources/imgs/app.ico</file>
+    <file>resources/imgs/app.png</file>
+  </qresource>
+</RCC>

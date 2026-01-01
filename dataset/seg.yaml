@@ -1,0 +1,5 @@
+path: D:/Code/LabelVision/dataset
+train: images/train
+val: images/val
+test: null
+names: {0: 老虎, 1: 头, 2: 屁股, 3: 大象, 4: 人类, 5: 房子}

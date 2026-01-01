@@ -1,0 +1,7 @@
+path: D:/Code/LabelVision/dataset
+train: images/train
+val: images/val
+test: null
+kpt_shape: [2, 3]
+flip_idx: [0, 1]
+names: {0: 老虎, 1: 头, 2: 屁股, 3: 大象, 4: 人类, 5: 房子}
